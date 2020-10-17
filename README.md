@@ -1,2 +1,2 @@
 # CSSProject
-Trying a liitle bit, to create some web design with HTML and CSS only 
+Trying a little bit, to create some web design with HTML and CSS only 
